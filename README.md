@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Dongocanh96's github stats](https://github-readme-stats.vercel.app/api?username=dongocanh96&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[Project Euler](https://projecteuler.net/profile/dongocanh96.png)
+![Project Euler](https://projecteuler.net/profile/dongocanh96.png)
